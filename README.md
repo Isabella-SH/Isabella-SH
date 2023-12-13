@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div align="center">
+  <h1>Hi there, I'm Isabella 😉</h1>
+  <picture>
+  <img alt="Logo" src=https://github.com/Isabella-SH/Isabella-SH/assets/102604598/de024308-93d4-4928-b798-4e4d75663711 style="height: 10em; width: auto"> 
+    </picture>
+  <p>I am about to start my fourth year studying Software Engineering at the UPC (Peruvian University of Applied Sciences). I am looking to put into practice all my acquired knowledge, as well as make my human potential available to the organization in a dynamic work environment which allows me to develop professionally.</p>
+</div>
+
 <!--
 **Isabella-SH/Isabella-SH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
