@@ -31,5 +31,30 @@
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javscript badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge"/>
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge"/>                 
+  </ul>
+</div>
+
+<div>
+  <h3>Tools</h3>
+  <ul align="center">
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="AndroidStudio badge"/> 
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="AndroidStudio badge"/> 
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman badge"/>
+   <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git badge"/>
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office badge"/>
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="Miro badge"/>
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello badge"/>
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBi badge"/>
+  </ul>
+</div>
+
+<div>
+  <h3>Hobbies</h3>
+  <ul align="center">
+    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="EpicGames badge"/>
+   <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="EpicGames badge"/>
+   <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="EpicGames badge"/>
+   <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="EpicGames badge"/>
   </ul>
 </div>
